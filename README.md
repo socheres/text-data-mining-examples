@@ -11,4 +11,7 @@ Click below to launch in Binder:
 ## NamedEntityRecognition
 
 Click below to launch in Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/socheres/text-data-mining-examples/519a775072369208fae4178a5efc65726d620e0a?urlpath=lab%2Ftree%2FNamedEntityRecognition.ipynb){:target="_blank"}
+
+<a href="https://mybinder.org/v2/gh/socheres/text-data-mining-examples/519a775072369208fae4178a5efc65726d620e0a?urlpath=lab%2Ftree%2FNamedEntityRecognition.ipynb" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
+</a>
