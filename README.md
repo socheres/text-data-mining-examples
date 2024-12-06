@@ -6,9 +6,10 @@ Click below to launch in Binder:
 ## word-count-snippet
 
 Click below to launch in Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/socheres/text-data-mining-examples/519a775072369208fae4178a5efc65726d620e0a?urlpath=lab%2Ftree%2Fword-count-snippet.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/socheres/text-data-mining-examples/01bb749172fe28993c5d8d2a1614596fbea4e330?urlpath=lab%2Ftree%2Fword-count-snippet.ipynb)
+
 
 ## NamedEntityRecognition
 
 Click below to launch in Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/socheres/text-data-mining-examples/519a775072369208fae4178a5efc65726d620e0a?urlpath=lab%2Ftree%2FNamedEntityRecognition.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/socheres/text-data-mining-examples/01bb749172fe28993c5d8d2a1614596fbea4e330?urlpath=lab%2Ftree%2FNamedEntityRecognition.ipynb)
