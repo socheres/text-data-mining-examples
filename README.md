@@ -6,7 +6,7 @@ Click below to launch in Binder:
 ## word-count-snippet
 
 Click below to launch in Binder:
-[![Colab](https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg)](https://colab.research.google.com/drive/1AXH6Wc6ZuyNnDeiPSsMcCtN2YhvSnJq9?usp=sharing)
+[![Colab]([https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg](https://colab.research.google.com/assets/colab-badge.svg))](https://colab.research.google.com/drive/1AXH6Wc6ZuyNnDeiPSsMcCtN2YhvSnJq9?usp=sharing)
 
 ## NamedEntityRecognition
 
