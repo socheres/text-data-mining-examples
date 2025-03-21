@@ -19,8 +19,3 @@ Launch this example in Jupyter Notebook by clicking below:
 
 #### **4. Improving OCR of images with bad quality using LLMs**  
 ---
-
-### **Running All Code Steps**  
-To execute all steps in the notebook, navigate to the Colab menu and select:  
-**"Runtime" > "Run all"**  
-
