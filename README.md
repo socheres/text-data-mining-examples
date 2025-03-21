@@ -5,11 +5,11 @@ Prototypes for different computational methods and theological disciplines will 
 
 #### **1. Word Count Snippet**  
 Launch this example in Google Colab by clicking below:  
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AXH6Wc6ZuyNnDeiPSsMcCtN2YhvSnJq9?usp=sharing)  
+[![Colab](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/user/cyw5623/notebooks/word-count.ipynb)  
 
 #### **2. Named Entity Recognition (NER)**  
 Launch this example in Google Colab by clicking below:  
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ffY_aXKskAB_nqbrP4BFbwPyHL4p4f8T?usp=sharing)  
+[![Colab](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/user/cyw5623/notebooks/NamedEntityRecognition.ipynb)  
 
 ---
 ### **Coming soon**
