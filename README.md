@@ -15,12 +15,15 @@ Each prototype is designed to be easily launched and explored. Click the "Launch
 A foundational example demonstrating basic text analysis through word counting.
 
 [![Launch in Jupyter](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/hub/user-redirect/lab/tree/word-count.ipynb)
+[![Launch in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AXH6Wc6ZuyNnDeiPSsMcCtN2YhvSnJq9) 
 
 ### 2. Named Entity Recognition (NER)
 
 An example focusing on identifying and extracting named entities (e.g., people, places, organizations) from textual data relevant to theological studies.
 
-[![Launch in Jupyter](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/hub/user-redirect/lab/tree/NamedEntityRecognition.ipynb)
+[![Launch in Jupyter](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/hub/user-redirect/lab/tree/NamedEntityRecognition.ipynb) 
+[![Launch in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ffY_aXKskAB_nqbrP4BFbwPyHL4p4f8T) 
+
 
 ### 3. Improving OCR of Images with Poor Quality using LLMs
 
