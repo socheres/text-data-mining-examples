@@ -29,6 +29,7 @@ An example focusing on identifying and extracting named entities (e.g., people, 
 
 This prototype demonstrates techniques for enhancing the readability and accuracy of text extracted via Optical Character Recognition (OCR) from low-quality images, leveraging Large Language Models (LLMs).
 
+[![Launch in Jupyter](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/user/cyw5623/lab/tree/ocr-images-text-side-by-side.ipynb) 
 ---
 
 ## Coming Soon (Future Prototypes)
