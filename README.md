@@ -33,6 +33,7 @@ This prototype demonstrates techniques for enhancing the readability and accurac
 
 ### 4. Multi-Model LLM Comparison Tool
 Learn how to compare responses from multiple AI models and generate professional PDF reports!
+
 [![Launch in Jupyter](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/user/cyw5623/lab/tree/multiple-llm-chat.ipynb) 
 [![Launch in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14jVNIOnDCi4D0ExFDIi3LT6jIaEL8y9z#scrollTo=O2muOmIZIUH1) 
 
