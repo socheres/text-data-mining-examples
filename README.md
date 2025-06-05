@@ -8,7 +8,7 @@ This repository provides a collection of computational method prototypes tailore
 
 ## Current Prototypes
 
-Each prototype is designed to be easily launched and explored. Click the "Launch in Jupyter" badge to open the example directly in a Jupyter environment.
+Each prototype is designed to be easily launched and explored. Click the "Launch in Jupyter" (for researcher affiliated in BW) or "Open in Colab" badge to open the example directly in a Jupyter or Colab environment.
 
 ### 1. Word Count Snippet
 
