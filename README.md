@@ -30,17 +30,23 @@ An example focusing on identifying and extracting named entities (e.g., people, 
 This prototype demonstrates techniques for enhancing the readability and accuracy of text extracted via Optical Character Recognition (OCR) from low-quality images, leveraging Large Language Models (LLMs).
 
 [![Launch in Jupyter](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/user/cyw5623/lab/tree/ocr-images-text-side-by-side.ipynb) 
+
+### 4. Multi-Model LLM Comparison Tool
+Learn how to compare responses from multiple AI models and generate professional PDF reports!
+[![Launch in Jupyter](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/user/cyw5623/lab/tree/multiple-llm-chat.ipynb) 
+[![Launch in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14jVNIOnDCi4D0ExFDIi3LT6jIaEL8y9z#scrollTo=O2muOmIZIUH1) 
+
 ---
 
 ## Coming Soon (Future Prototypes)
 
 We are continuously developing new prototypes to expand the utility of computational methods in theological research.
 
-### 4. Sorting and Metadata Extraction for Archival Documents using LLMs
+### 5. Sorting and Metadata Extraction for Archival Documents using LLMs
 
 A forthcoming example that will explore methods for automatically organizing archival documents by date and extracting key metadata (e.g., Sender, Receiver, summary of content) from each scanned page using LLMs.
 
-### 5. Translating PDFs and Generating Summaries using LLMs
+### 6. Translating PDFs and Generating Summaries using LLMs
 
 This future prototype will showcase a workflow for translating PDF content, followed by generating a three-column output: original text, translated text, and a detailed summary of each passage, all powered by LLMs.
 
