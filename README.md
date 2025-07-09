@@ -37,17 +37,21 @@ Learn how to compare responses from multiple AI models and generate professional
 [![Launch in Jupyter](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/user/cyw5623/lab/tree/multiple-llm-chat.ipynb) 
 [![Launch in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14jVNIOnDCi4D0ExFDIi3LT6jIaEL8y9z#scrollTo=O2muOmIZIUH1) 
 
+### 5. Semantic search/similarity search Tool
+Discover how to use LLM embeddings to semantically explore and read PDF documents.
+
+[![Launch in Jupyter](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/user/cyw5623/lab/tree/semantic-reading.ipynb) 
 ---
 
 ## Coming Soon (Future Prototypes)
 
 We are continuously developing new prototypes to expand the utility of computational methods in theological research.
 
-### 5. Sorting and Metadata Extraction for Archival Documents using LLMs
+### 6. Sorting and Metadata Extraction for Archival Documents using LLMs
 
 A forthcoming example that will explore methods for automatically organizing archival documents by date and extracting key metadata (e.g., Sender, Receiver, summary of content) from each scanned page using LLMs.
 
-### 6. Translating PDFs and Generating Summaries using LLMs
+### 7. Translating PDFs and Generating Summaries using LLMs
 
 This future prototype will showcase a workflow for translating PDF content, followed by generating a three-column output: original text, translated text, and a detailed summary of each passage, all powered by LLMs.
 
