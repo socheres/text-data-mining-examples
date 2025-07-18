@@ -40,7 +40,8 @@ Learn how to compare responses from multiple AI models and generate professional
 ### 5. Semantic search/similarity search Tool
 Discover how to use LLM embeddings to semantically explore and read PDF documents.
 
-[![Launch in Jupyter](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/user/cyw5623/lab/tree/semantic-reading.ipynb) 
+[![Launch in Jupyter](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/user/cyw5623/lab/tree/semantic-reading.ipynb)
+[![Launch in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lNsrX6KBVRNyBeSh9hCXn9gPd4X736Xu) 
 ---
 
 ## Coming Soon (Future Prototypes)
