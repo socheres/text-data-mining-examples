@@ -30,7 +30,7 @@ An example focusing on identifying and extracting named entities (e.g., people, 
 This prototype demonstrates techniques for enhancing the readability and accuracy of text extracted via Optical Character Recognition (OCR) from low-quality images, leveraging Large Language Models (LLMs).
 
 [![Launch in Jupyter](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/user/cyw5623/lab/workspaces/auto-a/tree/ocr-images-text-merge.ipynb)
-
+[![Launch in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NG3hR_AqpDnhn-T2BrrerX-lBkJ6VwvT) 
 ### 4. Multi-Model LLM Comparison Tool
 Learn how to compare responses from multiple AI models and generate professional PDF reports!
 
