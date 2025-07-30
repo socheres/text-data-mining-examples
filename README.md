@@ -46,6 +46,7 @@ Discover how to use LLM embeddings to semantically explore and read PDF document
 ### 6. Sorting and Metadata Extraction for Archival Documents using LLMs
 
 Automatically sort archival documents by date, extract key metadata (e.g., sender, receiver, content summary), and annotate each scanned page with TEI-XML using LLMs.
+
 [![Launch in Jupyter](https://mybinder.org/badge_logo.svg)](https://hub.bwjupyter.de/user/cyw5623/lab/workspaces/auto-8/tree/sort-tei-converter.ipynb)
 [![Launch in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XfCtNzwS1Ls3DDRZLLtoAIlRUF8WnYdY?usp=sharing) 
 
